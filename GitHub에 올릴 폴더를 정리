@@ -1,0 +1,25 @@
+AI_ML_Project/
+│
+├── README.md
+│
+├── src/
+│   ├── main.py
+│   ├── model.py
+│   └── duckdb_test.py
+│
+├── notebooks/
+│   └── AI_ML_Project.ipynb
+│
+├── results/
+│   ├── result1.png
+│   ├── result2.png
+│   ├── result3.png
+│   ├── result4.png
+│   └── result5.png
+│
+└── screenshots/
+    ├── codex1.png
+    ├── codex2.png
+    ├── codex3.png
+    ├── codex4.png
+    └── codex5.png
